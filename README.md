@@ -19,7 +19,7 @@ $ MONGO_URI=
 
 Check that your setup worked by running the server.
 ```Shell
-$ npm start
+$ npm run dev
 ```
 
 ### Frontend
